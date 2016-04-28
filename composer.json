@@ -1,0 +1,26 @@
+{
+    "name": "marcuspi\/random-factor",
+    "description": "Makes strings of random words (if you need a semi-safe random word combination)",
+    "keywords": [
+        "adjectives",
+        "nouns",
+        "random"
+    ],
+    "homepage": "https:\/\/github.com\/marcusirgens\/RandomFactor",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Marcus Pettersen Irgens",
+            "email": "marcus@comcamp.no",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https:\/\/github.com\/marcusirgens\/RandomFactor\/issues"
+    },
+    "autoload": {
+        "files": [
+            "RandomFactor.php"
+        ]
+    }
+}
