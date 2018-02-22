@@ -19,6 +19,9 @@
         "issues": "https:\/\/github.com\/marcusirgens\/RandomFactor\/issues"
     },
     "autoload": {
+        "psr-4": {
+            "marcuspi\\RandomFactor\\": "src/marcuspi/RandomFactor/"
+        },
         "files": [
             "RandomFactor.php"
         ]
